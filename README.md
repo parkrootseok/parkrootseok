@@ -27,10 +27,10 @@
 
 <div align="center">
   <a href="https://solved.ac/profile/parkrootseok/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkrootseok" height="250px"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkrootseok" height="200px"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkrootseok&layout=compact" height="250px" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkrootseok&layout=compact" height="200px" />
   </a> 
 </div>
