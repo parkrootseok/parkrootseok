@@ -53,5 +53,5 @@
 
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkrootseok" width="500rem" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkrootseok" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkrootseok" height="242px"/>
 </div>
