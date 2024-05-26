@@ -52,6 +52,6 @@
 <br>
 
 <div align="center">
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkrootseok" width="590rem" />
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkrootseok" width="580rem" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkrootseok" />
 </div>
