@@ -39,20 +39,27 @@
 
 ## Infra
 <div>
- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+ <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/aws%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/aws%20rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+ <img src="https://img.shields.io/badge/aws%20lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+</div>
+<div>
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"/>
 </div>
 
 ## Tool
 <div>
- <img src="https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
  <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+ <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 ## IDE
