@@ -1,15 +1,16 @@
+ <!-- Hit Count  -->
+<div align="right">
+ <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkRootSeok%2Fhit-counter&count_bg=%23223A5E&title_bg=%237F7F7F&icon=googlekeep.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
+</div>
 
 <!-- Header  -->
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=FFFFFF&height=140&section=header&text=Hello!%20I'm%20Root&fontColor=223a5e&fontSize=70" />
 
- <!-- Hit Count  -->
-<div align="Right">
- <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkRootSeok%2Fhit-counter&count_bg=%23223A5E&title_bg=%237F7F7F&icon=googlekeep.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
-</div>
-
 ## Language
 <div>
+<!--  <img src="https://skillicons.dev/icons?i=java,python,c,html,css" /> -->
  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,16 +19,23 @@
 
 ## Server
 <div>
- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+<!--  <img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,html,css" /> --> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
- <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
+
+<div>
  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
  <img src="https://img.shields.io/badge/MyBatis-D50A12?style=for-the-badge&logo=MyBatis&logoColor=white">
 </div>
+
 <div>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
+
+<div>
  <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
  <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
 </div>
