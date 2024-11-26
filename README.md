@@ -7,7 +7,7 @@
  <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkRootSeok%2Fhit-counter&count_bg=%23223A5E&title_bg=%237F7F7F&icon=googlekeep.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
 </div>
 
-## Languae
+## Language
 <div>
  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
