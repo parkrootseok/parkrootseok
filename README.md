@@ -7,10 +7,16 @@
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=FFFFFF&height=140&section=header&text=Hello!%20I'm%20Root&fontColor=223a5e&fontSize=70" />
 
 ## Language
+
+### Main
+
 <div>
-<!--  <img src="https://skillicons.dev/icons?i=java,python,c,html,css" /> -->
  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+### Sub
+
+<div>
  <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,25 +25,9 @@
 
 ## Server
 <div>
-<!--  <img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,html,css" /> --> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
- <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
-
-<div>
- <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
- <img src="https://img.shields.io/badge/MyBatis-D50A12?style=for-the-badge&logo=MyBatis&logoColor=white">
-</div>
-
-<div>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</div>
-
-<div>
- <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
- <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
 </div>
 
 ## Client
@@ -47,16 +37,8 @@
 
 ## Infra
 <div>
- <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
- <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
- <img src="https://img.shields.io/badge/aws%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
- <img src="https://img.shields.io/badge/aws%20rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
- <img src="https://img.shields.io/badge/aws%20lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-</div>
-<div>
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
- <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"/>
 </div>
 
 ## Tool
