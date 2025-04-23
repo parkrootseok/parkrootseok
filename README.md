@@ -1,8 +1,3 @@
- <!-- Hit Count  -->
-<div align="right">
- <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkRootSeok%2Fhit-counter&count_bg=%23223A5E&title_bg=%237F7F7F&icon=googlekeep.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
-</div>
-
 <!-- Header  -->
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=FFFFFF&height=140&section=header&text=Hello!%20I'm%20Root&fontColor=223a5e&fontSize=70" />
 
